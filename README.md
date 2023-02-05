@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Ronits's github stats](https://github-readme-stats.vercel.app/api?username=ronitnallagatla&count_private=true&show_icons=true)](https://github.com/ronitnallagatla)
+[![Ronits's github stats](https://github-readme-stats.vercel.app/api?username=ronitnallagatla&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ronitnallagatla)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitnallagatla&hide=php)](https://github.com/ronitnallagatla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitnallagatla&layout=compact&theme=tokyonight)](https://github.com/ronitnallagatla)
 
 <!--
 **ronitnallagatla/ronitnallagatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
